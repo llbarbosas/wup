@@ -1,5 +1,5 @@
-<p align="center"><img src=".github/logo.svg" width="80"/></p>
-<h2 align="center">wup</h2>
+<p align="center"><img src=".github/logo.svg" width="100"/></p>
+<h2 align="center">wup 😴⚡</h2>
 <p align="center">reactive and functional javascript framework</p>
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/-just%20for%20fun-green?style=flat"></a>
