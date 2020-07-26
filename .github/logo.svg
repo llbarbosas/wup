@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="486.524" height="489.762" viewBox="0 0 486.524 489.762">
+  <g id="wup-logo" transform="translate(-268.52 -270.239)">
+    <g id="Grupo_1" data-name="Grupo 1" transform="translate(268.52 273.477)">
+      <rect id="Retângulo_2" data-name="Retângulo 2" width="21" height="98" rx="10.5" transform="translate(232.719 -3.238)" fill="#ec8a19"/>
+      <rect id="Retângulo_3" data-name="Retângulo 3" width="21" height="112" rx="10.5" transform="translate(69.513 72.646) rotate(-35)" fill="#ec8a19"/>
+      <rect id="Retângulo_4" data-name="Retângulo 4" width="21" height="112" rx="10.5" transform="matrix(-0.819, -0.574, 0.574, -0.819, 352.715, 164.391)" fill="#ec8a19"/>
+      <path id="Caminho_1" data-name="Caminho 1" d="M42.351,0,256.928,42.908a42.351,42.351,0,0,1,42.351,42.351l44.746,216.415a42.351,42.351,0,0,1-42.351,42.351L89.9,294.641A42.351,42.351,0,0,1,47.546,252.29L0,42.351A42.351,42.351,0,0,1,42.351,0Z" transform="translate(0 243.262) rotate(-45)" fill="#fff4c7"/>
+    </g>
+    <rect id="Retângulo_1" data-name="Retângulo 1" width="31" height="152" rx="15.5" transform="translate(495.239 441.239)" fill="#ec8a19"/>
+  </g>
+</svg>

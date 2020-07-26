@@ -1,0 +1,16 @@
+{
+  "name": "wup",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tsc && webpack && http-server public"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7",
+    "webpack": "^4.44.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
